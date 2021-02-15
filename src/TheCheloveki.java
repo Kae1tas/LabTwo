@@ -20,7 +20,7 @@ public class TheCheloveki {
             human[i].name = sc.nextLine();
             System.out.print("Имя человека номер " + (i + 1));
             /*sfdfdfd
-            dfgdfgdf
+            dfgdfgdfl';'
 
              */
         }
