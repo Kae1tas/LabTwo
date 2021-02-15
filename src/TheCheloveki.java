@@ -19,6 +19,9 @@ public class TheCheloveki {
             System.out.print("Фамилия человека номер " + (i + 1));
             human[i].name = sc.nextLine();
             System.out.print("Имя человека номер " + (i + 1));
+            /*sfdfdf
+
+             */
         }
     
     }
